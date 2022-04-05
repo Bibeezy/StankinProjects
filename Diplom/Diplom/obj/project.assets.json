@@ -9172,11 +9172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bibik\\Desktop\\Diplom\\Diplom\\Diplom.csproj",
+      "projectUniqueName": "C:\\Users\\bibik\\Documents\\GitHub\\StankinProjects\\Diplom\\Diplom\\Diplom.csproj",
       "projectName": "Diplom",
-      "projectPath": "C:\\Users\\bibik\\Desktop\\Diplom\\Diplom\\Diplom.csproj",
+      "projectPath": "C:\\Users\\bibik\\Documents\\GitHub\\StankinProjects\\Diplom\\Diplom\\Diplom.csproj",
       "packagesPath": "C:\\Users\\bibik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bibik\\Desktop\\Diplom\\Diplom\\obj\\",
+      "outputPath": "C:\\Users\\bibik\\Documents\\GitHub\\StankinProjects\\Diplom\\Diplom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bibik\\AppData\\Roaming\\NuGet\\NuGet.Config",
