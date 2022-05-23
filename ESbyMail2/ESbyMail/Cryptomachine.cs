@@ -18,7 +18,7 @@ namespace ESbyMail
         private static byte[] iv = new byte[] { 1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8 };   // Вектор инициализации
         private static string cryptoKey = "NikiYaniLeetBoyzNikiYaniLeetBoyz";
 
-        public static bool EncryptData(string sourceFile)
+        public  bool EncryptData(IFormFile )
         {
             try
             {
